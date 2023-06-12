@@ -1,10 +1,10 @@
 __package_name__ = "txr"
-__version__ = '2.0.0'
+__version__ = '2.0.1'
 __author__ = "Idan Miara"
 __author_email__ = "idan@miara.com"
 __license__ = "GPL3"
 __url__ = r"https://github.com/idanmiara/txr"
-__description__ = "Stylish merge/split files (tar-like with txt output)"
+__description__ = "TXR: The teXt aRchiver - archives text as text. and much more."
 
 import csv
 import hashlib

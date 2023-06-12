@@ -1,4 +1,4 @@
-TXR: The TeXt aRchiver
+TXR: the teXt aRchiver
 ########################
 
 Mainly purposed for archiving text files as text files, but can archive any file and not only as text.
